@@ -246,6 +246,11 @@
 
 
 
+
+	Data Structures in Java - Java Specialists (By Dr. Heinz Kabutz)
+
+
+	
 	Udemy 
 	—————
 
@@ -305,6 +310,8 @@
 
 
 
+
+
 	Algorithms Specialization - Stanford University/ Coursera
 	—————————————————————————————————————————————————————————
 
@@ -315,6 +322,11 @@
 	Greedy Algorithms, Minimum Spanning Trees, And Dynamic Programming (Stanford University) - Coursera 
 
 	Shortest Paths Revisited, Np-complete Problems And What To Do About Them (Stanford University) - Coursera
+
+
+
+
+
 
 
 	Data Structures and Algorithms Specialization - UC San Diego/ Coursera
@@ -330,8 +342,13 @@
 
 
 
-	Topoics on Algorithms And Data Structures - Geeks for Geeks
-	———————————————————————————————————————————————————————————
+
+
+
+
+	Top Algorithms And Data Structures For Competitive Programming - Geeks For Geeks (GfG)
+	——————————————————————————————————————————————————————————————————————————————————————
+
 
 		I. Graph algorithms
 		————————————————————
@@ -432,7 +449,8 @@
 				LCA and RMQ
 
 
-Webpage: <http://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/>
+
+	 				
 
 
 
